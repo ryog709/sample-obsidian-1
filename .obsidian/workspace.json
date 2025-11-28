@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_Memory/Technical/Tools/Obsidian/20251113_Obsidianのグラフビュー.md",
+                "file": "04_Memory/Technical/Tools/Obsidian/20251113_Obsidianの双方向リンク.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20251113_Obsidianのグラフビュー"
+              "title": "20251113_Obsidianの双方向リンク"
             }
           }
         ]
@@ -180,8 +180,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ]
@@ -193,9 +193,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:クイックスイッチャーを開く": false,
       "graph:グラフビューを開く": false,
       "canvas:新規キャンバスを作成": false,
@@ -203,11 +200,22 @@
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
       "bases:Create new base": false,
-      "obsidian-kanban:カンバンボードを新規作成": false
+      "obsidian-kanban:カンバンボードを新規作成": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "86a8e12c91d4c765",
+  "active": "d1727ce017af2932",
   "lastOpenFiles": [
+    "01_Inbox",
+    "00_Memo",
+    "04_Memory/Technical/Tools/Obsidian/20251113_Obsidianのリンク戦略.md",
+    "Tools/Obsidian.md",
+    "04_Memory/Technical/_Tech-MOC.md",
+    "Tools",
+    "04_Memory/Technical/Programming/Next.js/Next.jsとは何か.md",
+    "04_Memory/Technical/Tools/Obsidian/20251113_Obsidianのグラフビュー.md",
     "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/src/components/layout/Footer.tsx",
     "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/src/components/sections/Features.tsx",
     "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/src/components/layout/Navigation.tsx",
@@ -218,9 +226,6 @@
     "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/node_modules/zod/index.d.ts",
     "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/node_modules/zod/README.md",
     "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/node_modules/zod/package.json",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/node_modules/zod/src/v4/core/tests/locales/ru.test.ts",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/node_modules/zod/src/v4/core/tests/locales/tr.test.ts",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/node_modules/zod/src/v4/core/tests/locales/be.test.ts",
     "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/node_modules/@mongodb-js/saslprep/readme.md",
     "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/node_modules/@popperjs/core/README.md",
     "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/node_modules/@popperjs/core/LICENSE.md",
@@ -239,11 +244,6 @@
     "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/node_modules/@mui/styled-engine/CHANGELOG.md",
     "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/node_modules/@mui/private-theming/README.md",
     "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/node_modules/@mui/private-theming/CHANGELOG.md",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/node_modules/@mui/core-downloads-tracker/README.md",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/node_modules/@babel/runtime/README.md",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/node_modules/@emotion/babel-plugin/node_modules/convert-source-map/README.md",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/node_modules/@emotion/weak-memoize/README.md",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/node_modules/@emotion/use-insertion-effect-with-fallbacks/README.md",
     "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/public/window.svg",
     "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/public/vercel.svg",
     "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/public/next.svg",
