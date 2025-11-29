@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4860ab3e472283e6",
+        "id": "83acb0f53676c4d2",
         "type": "tabs",
         "children": [
           {
-            "id": "86a8e12c91d4c765",
+            "id": "3e4f750d91327753",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_Memory/Technical/Tools/Obsidian/20251113_Obsidianの双方向リンク.md",
+                "file": "05_Output/Areas/Content-Creation/Social-Media/X-Twitter/@TODO/post-obsidian-本質的価値.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20251113_Obsidianの双方向リンク"
+              "title": "post-obsidian-本質的価値"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#リンク戦略",
+                "query": "tag:#知識管理",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 497.5
   },
   "right": {
     "id": "b128c668f351ff96",
@@ -183,12 +183,23 @@
               "icon": "lucide-ghost",
               "title": "calendar"
             }
+          },
+          {
+            "id": "7b66b037929e447c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -206,8 +217,24 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d1727ce017af2932",
+  "active": "3e4f750d91327753",
   "lastOpenFiles": [
+    "05_Output/Areas/Content-Creation/Social-Media/X-Twitter/@TODO/post-obsidian-痛みの解決.md",
+    "02_Daily/2025/2025-11/2025-11-13/2025-11-13-Obsidianセミナー-アジェンダ.md",
+    "04_Memory/Technical/Tools/Obsidian/20251113_Obsidianのグラフビュー.md",
+    "2025-11-13.md",
+    "04_Memory/Personal/Writing-Style/文章スタイル-抽象化パターン.md",
+    "04_Memory/Personal/Writing-Style/文章の癖-分析結果.md",
+    "00_Memo/test1",
+    "01_Inbox/20251129_Codexのリミット問題と対処.md",
+    "00_Memo/task1",
+    "カンバンタスクがmdで作成可能.md",
+    "CURSOR-COMMANDS-GUIDE.md",
+    "無題のファイル.base",
+    "無題のカンバン.md",
+    "無題のファイル 1.canvas",
+    "無題のファイル.canvas",
+    "04_Memory/Technical/Tools/Obsidian/20251113_Obsidianの双方向リンク.md",
     "01_Inbox",
     "00_Memo",
     "04_Memory/Technical/Tools/Obsidian/20251113_Obsidianのリンク戦略.md",
@@ -215,17 +242,12 @@
     "04_Memory/Technical/_Tech-MOC.md",
     "Tools",
     "04_Memory/Technical/Programming/Next.js/Next.jsとは何か.md",
-    "04_Memory/Technical/Tools/Obsidian/20251113_Obsidianのグラフビュー.md",
     "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/src/components/layout/Footer.tsx",
     "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/src/components/sections/Features.tsx",
     "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/src/components/layout/Navigation.tsx",
     "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/src/components/layout",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/src/components/providers/ThemeProvider.tsx",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/src/components/providers",
     "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/MONGODB_SETUP.md",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/node_modules/zod/index.d.ts",
     "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/node_modules/zod/README.md",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/node_modules/zod/package.json",
     "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/node_modules/@mongodb-js/saslprep/readme.md",
     "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/node_modules/@popperjs/core/README.md",
     "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/node_modules/@popperjs/core/LICENSE.md",
@@ -235,20 +257,10 @@
     "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/node_modules/@mui/utils/node_modules/react-is/README.md",
     "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/node_modules/@mui/material/README.md",
     "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/node_modules/@mui/material/CHANGELOG.md",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/node_modules/@mui/utils/README.md",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/node_modules/@mui/utils/CHANGELOG.md",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/node_modules/@mui/system/README.md",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/node_modules/@mui/system/CHANGELOG.md",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/node_modules/@mui/types/README.md",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/node_modules/@mui/styled-engine/README.md",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/node_modules/@mui/styled-engine/CHANGELOG.md",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/node_modules/@mui/private-theming/README.md",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/node_modules/@mui/private-theming/CHANGELOG.md",
     "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/public/window.svg",
     "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/public/vercel.svg",
     "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/public/next.svg",
     "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/public/globe.svg",
-    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/public/file.svg",
-    "無題のファイル.canvas"
+    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/public/file.svg"
   ]
 }
